@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactcoin/static/css/main.dcd931cd.chunk.css",
+    "main.js": "/reactcoin/static/js/main.6a524ddf.chunk.js",
+    "main.js.map": "/reactcoin/static/js/main.6a524ddf.chunk.js.map",
+    "runtime-main.js": "/reactcoin/static/js/runtime-main.449028ac.js",
+    "runtime-main.js.map": "/reactcoin/static/js/runtime-main.449028ac.js.map",
+    "static/css/2.f2512455.chunk.css": "/reactcoin/static/css/2.f2512455.chunk.css",
+    "static/js/2.ae35a3e0.chunk.js": "/reactcoin/static/js/2.ae35a3e0.chunk.js",
+    "static/js/2.ae35a3e0.chunk.js.map": "/reactcoin/static/js/2.ae35a3e0.chunk.js.map",
+    "static/js/3.f6f49802.chunk.js": "/reactcoin/static/js/3.f6f49802.chunk.js",
+    "static/js/3.f6f49802.chunk.js.map": "/reactcoin/static/js/3.f6f49802.chunk.js.map",
+    "index.html": "/reactcoin/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/reactcoin/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.dcd931cd.chunk.css.map": "/reactcoin/static/css/main.dcd931cd.chunk.css.map",
+    "static/js/2.ae35a3e0.chunk.js.LICENSE.txt": "/reactcoin/static/js/2.ae35a3e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449028ac.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.ae35a3e0.chunk.js",
+    "static/css/main.dcd931cd.chunk.css",
+    "static/js/main.6a524ddf.chunk.js"
+  ]
+}
